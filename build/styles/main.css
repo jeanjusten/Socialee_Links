@@ -1,3 +1,6 @@
+/*
+.mixin-name(@param1, @param2) { property: @param1; // ... }
+*/
 .marginBot8 {
   margin-bottom: 8px;
 }
@@ -65,11 +68,11 @@ header .main-img {
   margin: 24px auto 24px;
   max-height: 230px;
   border-radius: 50%;
-  border: 8px solid #dbaf00;
+  border: 8px solid #fcd217;
   transition: 0.5s ease-in-out;
 }
 header .main-img:hover {
-  border-color: #FFCC00;
+  border-color: #ffd83d;
 }
 header .profile {
   text-align: center;
@@ -101,7 +104,7 @@ header .profile-desc {
   transition: 0.5s ease-in-out;
 }
 .nav .items-list a {
-  background-color: #dbaf00;
+  background-color: #fcd217;
   border: 3px solid transparent;
   border-radius: 20px;
   padding: 10px;
@@ -112,7 +115,7 @@ header .profile-desc {
   color: white;
 }
 .nav .items-list a:hover {
-  background-color: #FFCC00;
+  background-color: #ffd83d;
   width: 100%;
 }
 .nav .items-list a li {
@@ -138,3 +141,5 @@ header .profile-desc {
     justify-self: left;
   }
 }
+
+/*# sourceMappingURL=maps/main.css.map */
