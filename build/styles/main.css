@@ -36,7 +36,7 @@ body {
   justify-content: center;
   text-align: center;
   margin: 0 auto 100px;
-  margin-bottom: 150px;
+  margin-bottom: 100px;
 }
 .container-motto .container-title {
   display: flex;
@@ -68,11 +68,11 @@ header .main-img {
   margin: 24px auto 24px;
   max-height: 230px;
   border-radius: 50%;
-  border: 8px solid #fcd217;
+  border: 8px solid #f0c400;
   transition: 0.5s ease-in-out;
 }
 header .main-img:hover {
-  border-color: #ffd83d;
+  border-color: #e09728;
 }
 header .profile {
   text-align: center;
@@ -104,7 +104,7 @@ header .profile-desc {
   transition: 0.5s ease-in-out;
 }
 .nav .items-list a {
-  background-color: #fcd217;
+  background-color: #f0c400;
   border: 3px solid transparent;
   border-radius: 20px;
   padding: 10px;
@@ -115,7 +115,7 @@ header .profile-desc {
   color: white;
 }
 .nav .items-list a:hover {
-  background-color: #ffd83d;
+  background-color: #e09728;
   width: 100%;
 }
 .nav .items-list a li {
@@ -141,5 +141,3 @@ header .profile-desc {
     justify-self: left;
   }
 }
-
-/*# sourceMappingURL=maps/main.css.map */
