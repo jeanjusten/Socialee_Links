@@ -64,7 +64,7 @@ This project uses Grunt to automate several tasks, such as JavaScript and CSS mi
               .pipe(gulp.dest("./build/scripts"))
       }
 
-* webP converting and Image compressing:
+* WebP converting and Image compressing:
   
         // Compress all Images on ./source/images
         function compressImages() {
