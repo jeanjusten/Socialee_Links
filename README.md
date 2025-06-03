@@ -20,7 +20,8 @@ Check out the ***Table of Contents*** section to navigate through this documenta
     - [3.1.1 Mobile](#small_red_triangle_down-mobile)
     - [3.1.2 Tablet](#small_red_triangle_down-tablet)
     - [3.1.3 Desktop](#small_red_triangle_down-desktop)
-- [4 Automated Tasks](#large_orange_diamond-automated-tasks) 
+- [4 Automated Tasks](#large_orange_diamond-automated-tasks)
+  - [4.1 Gulp](#arrow_forward-gulp)
 - [5. Tools and Technologies](#large_orange_diamond-tools-and-technologies) 
   - [5.1 Stacks Used](#arrow_forward-stacks-used)
 - [6. Result](#large_orange_diamond-result)
@@ -68,6 +69,7 @@ This webpage uses bootstrap to apply a series of breakpoints that grant a respon
 
 <!--Automated Tasks-->
 ## :large_orange_diamond: Automated Tasks
+### :arrow_forward: Gulp
 <p>
 This project uses Gulp to automate several tasks, such as JavaScript & CSS minification, image compression, and conversion to WebP format.
 </p>
