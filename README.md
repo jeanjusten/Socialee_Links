@@ -16,22 +16,22 @@ Check out the ***Table of Contents*** section to navigate through this documenta
 - [2. Patch Notes](#large_orange_diamond-patch-notes)
   - [2.1 Latest Update](#pushpin-latest-update)
 - [3. Features](#large_orange_diamond-features)
-  - [3.1 Automated Tasks](#arrow_forward-automated-tasks)
-  - [3.2 Responsiveness](#arrow_forward-responsiveness)
-    - [3.2.1 Mobile](#small_red_triangle_down-mobile)
-    - [3.2.2 Tablet](#small_red_triangle_down-tablet)
-    - [3.2.3 Desktop](#small_red_triangle_down-desktop)
-- [4. Tools and Technologies](#large_orange_diamond-tools-and-technologies) 
-  - [4.1 Stacks Used](#arrow_forward-stacks-used)
-- [5. Result](#large_orange_diamond-result)
-  - [5.1 Deploy](#arrow_forward-deploy)
-- [6. Links](#large_orange_diamond-links)
-  - [6.1. Project Repository](#arrow_forward-project-repository)
-  - [6.2. Social Links](#arrow_forward-social-links)
-  - [6.3. Other Links](#arrow_forward-other-links)
-- [7. Etcetera](#large_orange_diamond-etcetera)
-  - [7.1 About](#arrow_forward-about)
-  - [7.2 Licenses](#arrow_forward-license)
+  - [3.1 Responsiveness](#arrow_forward-responsiveness)
+    - [3.1.1 Mobile](#small_red_triangle_down-mobile)
+    - [3.1.2 Tablet](#small_red_triangle_down-tablet)
+    - [3.1.3 Desktop](#small_red_triangle_down-desktop)
+- [4 Automated Tasks](#large_orange_diamond-automated-tasks) 
+- [5. Tools and Technologies](#large_orange_diamond-tools-and-technologies) 
+  - [5.1 Stacks Used](#arrow_forward-stacks-used)
+- [6. Result](#large_orange_diamond-result)
+  - [6.1 Deploy](#arrow_forward-deploy)
+- [7. Links](#large_orange_diamond-links)
+  - [7.1. Project Repository](#arrow_forward-project-repository)
+  - [7.2. Social Links](#arrow_forward-social-links)
+  - [7.3. Other Links](#arrow_forward-other-links)
+- [8. Etcetera](#large_orange_diamond-etcetera)
+  - [8.1 About](#arrow_forward-about)
+  - [8.2 Licenses](#arrow_forward-license)
 
 <!--Introduction-->
 ## :large_orange_diamond: Introduction
@@ -49,7 +49,25 @@ It uses Gulp for automated tasks, and Less for CSS styling.
 
 <!--Features-->
 ## :large_orange_diamond: Features
-### :arrow_forward: Automated Tasks
+### :arrow_forward: Responsiveness
+<p>
+This webpage uses bootstrap to apply a series of breakpoints that grant a responsive design in all devices.
+</p>
+
+#### :small_red_triangle_down: Mobile
+
+<p>- Mobile View</p>
+
+#### :small_red_triangle_down: Tablet
+
+<p>- Tablet View</p>
+
+#### :small_red_triangle_down: Desktop
+
+<p>- Desktop View</p>
+
+<!--Automated Tasks-->
+## :large_orange_diamond: Automated Tasks
 <p>
 This project uses Gulp to automate several tasks, such as JavaScript & CSS minification, image compression, and conversion to WebP format.
 </p>
@@ -84,23 +102,6 @@ This project uses Gulp to automate several tasks, such as JavaScript & CSS minif
               .pipe(sourcemaps.write("./maps"))
               .pipe(gulp.dest("./build/styles")); // output files folder
       }
-
-### :arrow_forward: Responsiveness
-<p>
-This webpage uses bootstrap to apply a series of breakpoints that grant a responsive design in all devices.
-</p>
-
-#### :small_red_triangle_down: Mobile
-
-<p>- Mobile View</p>
-
-#### :small_red_triangle_down: Tablet
-
-<p>- Tablet View</p>
-
-#### :small_red_triangle_down: Desktop
-
-<p>- Desktop View</p>
 
 <!--Tools Used-->
 ## :large_orange_diamond: Tools and Technologies
