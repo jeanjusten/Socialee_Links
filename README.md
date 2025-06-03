@@ -105,7 +105,7 @@ This webpage uses bootstrap to apply a series of breakpoints that grant a respon
 <!--Tools Used-->
 ## :large_orange_diamond: Tools and Technologies
 ### :arrow_forward: Stacks Used
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,less,gulp)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,gulp,less)](https://skillicons.dev)<br>
 
 <!--Deploy-->
 ## :large_orange_diamond: Result
