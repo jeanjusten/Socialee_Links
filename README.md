@@ -51,7 +51,7 @@ It uses Gulp for automated tasks, and Less for CSS styling.
 ## :large_orange_diamond: Features
 ### :arrow_forward: Automated Tasks
 <p>
-This project uses Gulp to automate several tasks, such as JavaScript and CSS minification, image compression, and conversion to WebP format.
+This project uses Gulp to automate several tasks, such as JavaScript & CSS minification, image compression, and conversion to WebP format.
 </p>
 
 * Javascript compressing:
