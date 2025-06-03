@@ -17,10 +17,10 @@ Check out the ***Table of Contents*** section to navigate through this documenta
   - [2.1 Latest Update](#pushpin-latest-update)
 - [3. Features](#large_orange_diamond-features)
   - [3.1 Automated Tasks](#arrow_forward-automated-tasks)
-  - [3.1 Responsiveness](#arrow_forward-responsiveness)
-    - [3.1.1 Mobile](#small_red_triangle_down-mobile)
-    - [3.1.2 Tablet](#small_red_triangle_down-tablet)
-    - [3.1.3 Desktop](#small_red_triangle_down-desktop)
+  - [3.2 Responsiveness](#arrow_forward-responsiveness)
+    - [3.2.1 Mobile](#small_red_triangle_down-mobile)
+    - [3.2.2 Tablet](#small_red_triangle_down-tablet)
+    - [3.2.3 Desktop](#small_red_triangle_down-desktop)
 - [4. Tools and Technologies](#large_orange_diamond-tools-and-technologies) 
   - [4.1 Stacks Used](#arrow_forward-stacks-used)
 - [5. Result](#large_orange_diamond-result)
@@ -38,7 +38,7 @@ Check out the ***Table of Contents*** section to navigate through this documenta
 ### :arrow_forward: Description
 Socialee is a webpage used to host the user's links, similar to Linktree.<br>
 It was built to showcase a personal or business profile and redirect users to various social media platforms or important links.<br>
-It uses grunt for automated tasks, and Less for CSS styling.
+It uses Gulp for automated tasks, and Less for CSS styling.
 
 <!--Patch Notes-->
 ## :large_orange_diamond: Patch Notes
@@ -51,7 +51,7 @@ It uses grunt for automated tasks, and Less for CSS styling.
 ## :large_orange_diamond: Features
 ### :arrow_forward: Automated Tasks
 <p>
-This project uses Grunt to automate several tasks, such as JavaScript and CSS minification, image compression, and conversion to WebP format.
+This project uses Gulp to automate several tasks, such as JavaScript and CSS minification, image compression, and conversion to WebP format.
 </p>
 
 * Javascript compressing:
@@ -105,7 +105,7 @@ This webpage uses bootstrap to apply a series of breakpoints that grant a respon
 <!--Tools Used-->
 ## :large_orange_diamond: Tools and Technologies
 ### :arrow_forward: Stacks Used
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,less)](https://skillicons.dev), GRUNT<br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,less,gulp)](https://skillicons.dev)<br>
 
 <!--Deploy-->
 ## :large_orange_diamond: Result
@@ -125,11 +125,11 @@ This webpage uses bootstrap to apply a series of breakpoints that grant a respon
 ### :arrow_forward: Other Links
 * [Bootstrap Documentation](https://getbootstrap.com/docs/)
 * [Less Documentation](https://lesscss.org/)
-* [Grunt Documentation](https://gruntjs.com/)
+* [Gulp Documentation](https://gulpjs.com/docs/en/)
 
 ## :large_orange_diamond: Etcetera
 ### :arrow_forward: About
-Socialee webpage was created by ![logo](https://github.com/user-attachments/assets/0894beaf-f587-4d0a-983a-caf7fb551554) <strong>JEAN JUSTEN</strong> to study automated tasks with Grunt and CSS optimization with Less.
+Socialee webpage was created by ![logo](https://github.com/user-attachments/assets/0894beaf-f587-4d0a-983a-caf7fb551554) <strong>JEAN JUSTEN</strong> to study automated tasks with Gulp and CSS optimization with Less.
 
 ### :arrow_forward: License
 You may use, copy, share and modify the code as you please. No credits needed.</p>
