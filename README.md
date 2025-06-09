@@ -1,6 +1,8 @@
 ![Status](https://img.shields.io/badge/status-finished-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
+![ezgif com-crop](https://github.com/user-attachments/assets/8c12bb79-fb89-4b5e-9e48-c1cda1b70e75)
+
 <!--Title Image-->
 # 💻 Socialee - Links Hosting Webpage
 <p>
@@ -56,15 +58,16 @@ This webpage uses bootstrap to apply a series of breakpoints that grant a respon
 </p>
 
 #### :small_red_triangle_down: Mobile
-
+![2025-06-0919-48-20-ezgif com-crop(1)](https://github.com/user-attachments/assets/7e3627da-7c10-4306-b5fc-f2707974f48b)
 <p>- Mobile View</p>
 
-#### :small_red_triangle_down: Tablet
 
+#### :small_red_triangle_down: Tablet
+![2025-06-0919-48-39-ezgif com-crop](https://github.com/user-attachments/assets/2e9322bd-c1cf-41f4-9cb8-cddbcfeb2039)
 <p>- Tablet View</p>
 
 #### :small_red_triangle_down: Desktop
-
+![2025-06-0919-49-05-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/c5c5b9aa-dff9-4c56-9eb5-67ba4e036ffc)
 <p>- Desktop View</p>
 
 <!--Automated Tasks-->
